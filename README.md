@@ -5,7 +5,7 @@ This project identifies the root cause of a $64k profitability crisis. It levera
 
 ## **Project Assets**
 
-**The Table Trap: How Excessive Discounting Erodes Profit:** 
+**The Table Trap: How Excessive Discounting Erodes Profit** 
 
 ![The Table Trap: How Excessive Discounting Erodes Profit](assets/dashboard_overview.png)
 
@@ -78,4 +78,4 @@ If implemented, these recommendations could:
 - **Jupyter Notebook** 
 
 ## Data Source
-- Modified [**Kaggle** "Superstore" dataset](https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset/data]) 
+- Modified [**Kaggle** "Global Superstore Dataset"](https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset/data]) 
