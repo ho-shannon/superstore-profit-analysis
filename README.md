@@ -1,4 +1,4 @@
-# Superstore Sales Analysis: Diagnosing a Profitability Crisis
+# Superstore Sales Analysis: Looking into a Profit Crisis
 
 ## Overview
 This project identifies the root cause of a $64k profitability crisis. It leverages SQL for deep analysis and Tableau for clear, actionable storytelling, fulfilling the objective of turning raw data into a strategic business tool.
